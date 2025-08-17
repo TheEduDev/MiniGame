@@ -1,4 +1,4 @@
-#  Mini Game
+#  🎮 Mini Game
 
 O projeto é baseado em um "jogo" de roleta estilo caça-níquel. 
 
